@@ -41,6 +41,7 @@ body{
 
 .player-card button {
   padding: 8px 12px;
+  margin: 0.5rem;
   background-color: #2196f3;
   color: #fff;
   border: none;
